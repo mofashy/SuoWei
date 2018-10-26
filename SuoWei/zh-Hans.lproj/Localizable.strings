@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  SuoWei
+
+  Created by 沈永聪 on 2018/9/20.
+  Copyright © 2018年 沈永聪. All rights reserved.
+*/
+
+"suowei_tab_title_sale"="SALE";
+"suowei_tab_title_sort"="SORT";
+"suowei_tab_title_bags"="BAGS";
+
+"suowei_currency"="¥";
+
+"suowei_user_store"="Store";
+"suowei_user_order"="Order";
+"suowei_user_footprints"="Footprints";
+"suowei_user_messages"="Messages";
+"suowei_user_share"="Share";
+"suowei_user_help"="Help";

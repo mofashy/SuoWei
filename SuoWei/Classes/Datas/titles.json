@@ -1,0 +1,26 @@
+[
+    {
+        "title": "suowei_user_store",
+        "badge": 0,
+    },
+    {
+        "title": "suowei_user_order",
+        "badge": 0,
+    },
+    {
+        "title": "suowei_user_footprints",
+        "badge": 0,
+    },
+    {
+        "title": "suowei_user_messages",
+        "badge": 20,
+    },
+    {
+        "title": "suowei_user_share",
+        "badge": 0,
+    },
+    {
+        "title": "suowei_user_help",
+        "badge": 0,
+    }
+]

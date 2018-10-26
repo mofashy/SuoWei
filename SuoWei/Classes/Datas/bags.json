@@ -1,0 +1,30 @@
+[
+    {
+        "url": "",
+        "title": "POLO NECK SWEATER",
+        "specs": "Black/M",
+        "price": 699.00,
+        "quantity": 1
+    },
+    {
+        "url": "",
+        "title": "HIGH NECK TOP",
+        "specs": "Black/M",
+        "price": 472.00,
+        "quantity": 1
+    },
+    {
+        "url": "",
+        "title": "PEPLUM CHECK SHIRT",
+        "specs": "Black/M",
+        "price": 219.00,
+        "quantity": 1
+    },
+    {
+        "url": "",
+        "title": "PEPLUM NECK SHIRT",
+        "specs": "Black/M",
+        "price": 376.00,
+        "quantity": 1
+    }
+]
